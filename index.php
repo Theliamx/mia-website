@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Mia - Tu psicologa</title>
-	<link rel="stylesheet" href="public/css/styles.css?v=<?php echo(rand()); ?>"/>
+	<link rel="stylesheet" href="css/styles.css?v=<?php echo(rand()); ?>"/>
 	<link rel="icon" type="image/png" href="/images/icon.png"/>
 	<link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet">
 </head>
